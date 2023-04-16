@@ -32,6 +32,7 @@ The project was implemented in Python using the following tools and libraries:
 * Scikit-learn
 * Pickle
 * Streamlit
+
 To install these libraries, use the following command:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn streamlit
