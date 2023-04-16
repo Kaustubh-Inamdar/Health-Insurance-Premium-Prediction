@@ -13,7 +13,7 @@ This is an Applied Data Science project that uses machine learning to predict me
 * [Conclusion](#conclusion)
 
 ## Project Overview
-The goal of this project is to coduct an Exploratory Data Analysis on the data preprocess it and build a machine learning model that predicts the medical health insurance premium of an individual based on their health information. This project is based on a dataset of medical insurance records that contains information such as age, known diseases etc. Creating a webapp using the trained model with Streamlit Library of python.
+The goal of this project is to conduct an Exploratory Data Analysis on the data preprocess it and build a machine learning model that predicts the medical health insurance premium of an individual based on their health information. This project is based on a dataset of medical insurance records that contains information such as age, known diseases etc. Creating a webapp using the trained model with Streamlit Library of python.
 The project consists of the following steps:
 
 1. Exploratory Data Analysis (EDA)
