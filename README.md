@@ -41,10 +41,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 ## How to use the app
 1. Clone the repository
 2. Run Medical_Insurance_Prediction.ipynb
-   -It'll create three files necessery '.pkl' for running streamlit app
-   -'insurance_premium_model.pkl'
-   -'insurance_premium_scaler.pkl'
-   -'ridge_premium_model.pkl'
+   -It'll create three '.pkl' files necessery for running streamlit app
+   * 'insurance_premium_model.pkl'
+   * 'insurance_premium_scaler.pkl'
+   * 'ridge_premium_model.pkl'
 3. in terminal run: 
 ```bash
 streamlit run predict.py
